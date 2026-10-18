@@ -25,12 +25,11 @@ Engenheiro de Software Full Stack com sólida atuação no setor de **Saúde (He
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=santiagogerson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagogerson&layout=compact&theme=tokyonight"/>
-</p>
+### 💡 Foco Técnico & Práticas de Engenharia:
+- 🚀 **Clean Code & Tipagem Estrita:** Desenvolvimento full stack orientado a TypeScript (interfaces fortemente tipadas, validações com Zod).
+- 🔒 **Segurança e Conformidade:** Controle de acesso por perfis (RBAC), autenticação JWT resiliente com sliding renewal e tratamento de dados sensíveis na saúde.
+- ⚡ **Otimização de Banco de Dados:** Consultas SQL de alto desempenho em bases relacionais críticas (Oracle DB) com connection pooling eficiente.
+- 📦 **Arquitetura Modular:** Separação clara entre camadas de DTOs, Controllers, Services e Routers facilitando manutenção e escalabilidade.
 
 ---
 
